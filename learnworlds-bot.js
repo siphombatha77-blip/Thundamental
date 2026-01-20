@@ -18,7 +18,7 @@
     
     // Set to true to show on all pages (for testing)
     // CHANGE TO false AFTER TESTING IS COMPLETE
-    showOnAllPages: false,
+    showOnAllPages: true,
     
     // Bot personality
     botName: 'Thunda',
