@@ -10,7 +10,7 @@
   'use strict';
   const CONFIG = {
     // Backend proxy URL - UPDATE THIS after deployment
-    apiEndpoint: 'https://thundamental.vercel.app/api/chat',
+apiEndpoint: 'https://thundamental.vercel.app/api/chat',
     // Course slugs where the bot should appear
     activeCourses: [
       '/course/experimentation-microlearning-vacwork-dec-2025',
