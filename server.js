@@ -29,7 +29,7 @@ const CONFIG = {
     max: 15, // Gemini free tier is 15/minute
   },
   
-  geminiModel: 'gemini-1.5-flash',
+geminiModel: 'gemini-2.5-pro',
   
   systemPrompt: `You are Thunda, a friendly and knowledgeable AI learning assistant for Thundamental's "Experimentation Microlearning Vacwork" course. Your role is to help students navigate the course and understand AI concepts.
 
